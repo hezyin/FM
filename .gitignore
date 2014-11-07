@@ -1,0 +1,25 @@
+
+submission.csv
+/gbdt
+/fm
+*.fm*
+te.csv
+tr.csv
+test.csv
+test.tiny.csv
+train.csv
+train.tiny.csv
+fc.trva.t10.txt
+/solvers/fm/fm
+/solvers/gbdt/gbdt
+
+model.txt
+
+# Thumbnails
+
+._*
+*~
+.DS_Store
+*.swp
+*.log
+
